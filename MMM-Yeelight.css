@@ -1,0 +1,11 @@
+.MMM-Yeelight .centered {
+    text-align: center;
+}
+
+.MMM-Yeelight .lights-all-on{
+   color: yellow
+}
+
+.MMM-Yeelight .lights-partial-on{
+   color: khaki
+}

@@ -1,0 +1,19 @@
+{
+  "name": "MMM-Yeelight",
+  "version": "1.0.0",
+  "description": "Display Yeelight smarthome devices on local network",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slametps/MMM-Yeelight.git"
+  },
+  "keywords": ["MagicMirror", "Yeelight",  "smarthome"],
+  "author": "Slamet Puji Santuso",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/slametps/MMM-Yeelight/issues"
+  },
+  "homepage": "https://github.com/slametps/MMM-Yeelight#readme",
+  "dependencies": {
+    "node-yeelight-wifi": ">=0.1.2"
+  }
+}
